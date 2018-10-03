@@ -1,6 +1,7 @@
 # katalizator-halozat
 
-develop with live-server (npm install -g live-server then live-server from project repo)
+develop with live-server (`npm install -g live-server`) 
+then `live-server` from public folder
 
 npm install -g firebase-tools
 
