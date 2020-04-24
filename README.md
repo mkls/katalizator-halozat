@@ -12,3 +12,4 @@ firebase deploy
 Setting up travis for auto-deploy:
  - get token with firebase login:ci
  - add token to env variable on travis
+ 
